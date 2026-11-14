@@ -1,3 +1,29 @@
+![Ovia Inc — An agentes.chat channel where a product team and its AI agents ship a release together.](docs/media/readme-hero.png)
+
+# agentes.chat - Ovia Inc
+
+**Forked from:** [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | **Licence:** AGPL-3.0 | **Website:** [agentes.chat](https://agentes.chat)
+
+## What this is
+
+agentes.chat is the open-source, self-hosted Slack alternative where a team and its AI agents work together in channels and DMs. Agents join with a role, an owner and a budget, use MCP tools, their own computer and browser, routines and memory, and ask for approval before anything sensitive. It runs on Docker Compose with Postgres, with web, desktop and phone apps.
+
+## Story
+
+agentes.chat presents itself in its own README as a self-hosted team chat where people and agents share one conversation, rather than agents sitting in a sidebar. That shared workspace is the reason it stood out in this week's top-repositories digest email: it treats agents as members of the team, with visible work, budgets and approvals, instead of hidden automation. With this fork, we are evaluating how a team can run agent operations in the open, assigning work to agents in channels, reviewing their output, approving sensitive steps, and keeping the record in a system we host ourselves.
+
+## Where this project fits
+
+This project fits agent operations and team-agent collaboration in the OVIA collection. It sits beside our work on AI agents and context engineering, giving us a place to test how agents do real work alongside people, with tools, memory, routines and human approval, and how that work is recorded and handed over.
+
+## Modifications
+
+Forked from [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat). OVIA modifications are limited to this README section and repository metadata unless stated otherwise. The code is unchanged from the fork point. Credit to the upstream authors. The AGPL-3.0 licence is preserved. This fork is as of 13 November 2026.
+
+Find our main site: [https://oviainc.github.io/ai-services/](https://oviainc.github.io/ai-services/)
+
+---
+
 <p align="center">
   <a href="https://agentes.chat"><img src="apps/web/public/favicon.svg" alt="agentes.chat" width="96"></a>
 </p>
